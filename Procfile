@@ -1,1 +1,1 @@
-worker: python coinbase_signal_bot.py
+worker: python TridSignal.py
