@@ -1,1 +1,1 @@
-worker: python TridSignal.py
+worker: python Python.py
