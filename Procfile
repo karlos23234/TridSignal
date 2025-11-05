@@ -1,1 +1,1 @@
-worker: python Python.py
+worker: python coinbase_signal_bot.py
